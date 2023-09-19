@@ -1,0 +1,25 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+
+  "pattern": [
+
+    "WWW",
+    "WWW",
+    "WWW"
+
+  ],
+
+  "key": {
+    "W": {
+      "item": "randumb:weetbic"
+    }
+  },
+
+  "result": {
+    "item": "randumb:box_weetbix",
+    "count": 1
+  }
+
+}

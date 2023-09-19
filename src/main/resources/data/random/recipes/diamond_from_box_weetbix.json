@@ -1,0 +1,28 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+
+  "pattern": [
+
+    " W ",
+    "WDW",
+    " W "
+
+  ],
+
+  "key": {
+    "W": {
+      "item": "randumb:box_weetbix"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+
+  "result": {
+    "item": "randumb:box_weetbix",
+    "count": 10
+  }
+
+}

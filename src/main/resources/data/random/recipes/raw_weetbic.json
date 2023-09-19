@@ -1,0 +1,29 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+
+  "pattern": [
+
+    "WW",
+    "BB"
+
+  ],
+
+  "key": {
+
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "B": {
+      "item": "water_bucket"
+    }
+
+  },
+
+  "result": {
+    "item": "randumb:weetbic_raw",
+    "count": 3
+  }
+
+}

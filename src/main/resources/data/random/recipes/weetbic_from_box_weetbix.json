@@ -1,0 +1,19 @@
+{
+
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+
+  "ingredients": [
+    {
+      "item": "randumb:box_weetbix"
+    }
+  ],
+
+  "result": {
+
+    "item": "randumb:weetbic",
+    "count": 9
+
+  }
+
+}

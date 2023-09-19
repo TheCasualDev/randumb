@@ -1,0 +1,14 @@
+{
+
+  "type": "minecraft:smoking",
+  "category": "food",
+
+  "cookingtime": 250,
+  "experience": 0.50,
+
+  "ingredient": {
+    "item": "randumb:weetbic_raw"
+  },
+  "result": "randumb:weetbic"
+
+}

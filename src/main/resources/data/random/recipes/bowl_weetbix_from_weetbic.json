@@ -1,0 +1,35 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+
+  "pattern": [
+
+    "SW",
+    "WW",
+    "BM"
+
+  ],
+
+  "key": {
+
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "randumb:weetbic"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+
+  "result": {
+    "item": "randumb:bowl_weetbix",
+    "count": 1
+  }
+
+}
