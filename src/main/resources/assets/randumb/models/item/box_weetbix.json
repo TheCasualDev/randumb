@@ -1,8 +1,21 @@
 {
 
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "randumb:item/box_weetbix"
+  "parent": "item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+
+    "parent": "randumb:item/box_weetbix_3d"
+
+  },
+
+  "perspectives": {
+
+    "gui": {
+
+      "parent": "randumb:item/box_weetbix_2d"
+
+    }
+
   }
 
 }

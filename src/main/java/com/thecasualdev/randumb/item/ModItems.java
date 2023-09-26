@@ -13,7 +13,7 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, Randumb.MOD_ID);
 
     public static final RegistryObject<Item> BOX_WEETBIX = ITEMS.register("box_weetbix",
-            () -> new Item(new Item.Properties()));
+            () -> new Item(new Item.Properties().stacksTo(16)));
 
     public static final RegistryObject<Item> WEETBIC = ITEMS.register("weetbic",
             () -> new Item(new Item.Properties().food(ModFoods.WEETBIC)));
